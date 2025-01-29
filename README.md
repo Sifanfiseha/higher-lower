@@ -1,4 +1,4 @@
-# Day 14 - Higher Lower Game Project
+# Higher Lower Game Project
 ## Concepts Practised
 - Using Dictionary Data
 - Using Procedures
